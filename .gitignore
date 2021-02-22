@@ -1,0 +1,5 @@
+example_autotrader.py
+venv/
+.vscode/
+*.sqlite
+__pycache__/
